@@ -4,6 +4,40 @@
 This is a cheatsheet for Ruby beginners and contains links to resources and
 some simple examples to get started with Ruby.
 
+## Ruby Language
+
+### Introduction
+
+TODO: Add some content here.
+
+### Variables
+
+TODO: Add some content here.
+
+### Conditions 
+
+TODO: Add some content here.
+
+### Functions
+
+TODO: Add some content here.
+
+### Objects and classes
+
+TODO: Add some content here.
+
+### Arrays
+
+TODO: Add some content here.
+
+### Hashes
+
+TODO: Add some content here.
+
+### Looping and iteration
+
+TODO: Add some content here.
+
 ## Online Ruby resources
 
 ### Tools
