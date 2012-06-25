@@ -42,21 +42,21 @@ TODO: Add some content here.
 
 ### Tools
 
-* Tryruby - http://tryruby.org/
-* Rubymonk - http://rubymonk.org/
+* [Tryruby](http://tryruby.org/) - Try Ruby in your browser.
+* [Rubymonk](http://rubymonk.org/) - Interactive Ruby tutorials.
 
 ### Books
 
-* _why's Poignant Guide to Ruby - http://mislav.uniqpath.com/poignant-guide/
-* Chris Pine's _Learning to Program_ - http://pine.fm/LearnToProgram/
-* Mr Neighborly's _Humble Little Ruby Book_ - http://humblelittlerubybook.com/
-* Michael Hartl's _Learn Rails by Example_ - http://ruby.railstutorial.org/ruby-on-rails-tutorial-book
+* [_why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+* Chris Pine's [_Learning to Program_](http://pine.fm/LearnToProgram/)
+* [_Mr Neighborly's Humble Little Ruby Book_](http://humblelittlerubybook.com/)
+* Michael Hartl's [_Learn Rails by Example_](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 
 ### Articles
 
-* 15 things for a Ruby beginner - http://www.jasimabasheer.com/posts/meta_introduction_to_ruby.html
+* [15 things for a Ruby beginner](http://www.jasimabasheer.com/posts/meta_introduction_to_ruby.html)
 
 ### Blogs
 
-* Ruby Inside - http://www.rubyinside.com/
-* Ruby Flow - http://www.rubyflow.com/
+* [Ruby Inside](http://www.rubyinside.com/)
+* [Ruby Flow](http://www.rubyflow.com/)
