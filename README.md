@@ -62,6 +62,18 @@ variables don't have a fixed type.
 You can also interpolate strings as shown in the above example. Anything inside
 `#{...}` gets evaluated and interpolated into the string.
 
+### Arrays
+
+Arrays can contain objects of different types. See some examples here:
+
+    items = [1, 2, 3]    #=> [1, 2, 3]
+    items << "a"         #=> [1, 2, 3, "a"]
+    
+    # Also works like a list
+    x = items.pop       #   x contains value "a"
+                        #   item = [1, 2, 3]
+    items.push("Matz")  #=> [1, 2, 3, "Matz"]
+
 ### Conditions 
 
 TODO: Add some content here.
@@ -92,10 +104,6 @@ variables. Here, @name is an instance variable of class Foo.
 and initialize it with the name "bar".
 
     foo = Foo.new("bar")
-
-### Arrays
-
-TODO: Add some content here.
 
 ### Hashes
 
