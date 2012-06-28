@@ -4,7 +4,16 @@
 This is a cheatsheet for Ruby beginners and contains links to resources and
 some simple examples to get started with Ruby.
 
-## Ruby Language
+## Installation
+
+**Linux/OSX**: [RVM](https://rvm.io/rvm/install/) or the Ruby Version Manager
+is best way to manage Ruby installations on Linux and Mac OSX.
+
+**Windows**: [RubyInstaller](http://rubyinstaller.org/) is the quickest way to
+get Ruby installed on Windows.
+  
+
+## Ruby Language Basics
 
 ### Introduction
 
