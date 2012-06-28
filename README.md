@@ -6,8 +6,8 @@ some simple examples to get started with Ruby.
 
 ## Installation
 
-**Linux/OSX**: [RVM](https://rvm.io/rvm/install/) or the Ruby Version Manager
-is best way to manage Ruby installations on Linux and Mac OSX.
+**Linux/OSX**: [RVM](https://rvm.io/rvm/install/) (Ruby Version Manager) is the
+best way to manage Ruby installations on Linux and Mac OSX.
 
 **Windows**: [RubyInstaller](http://rubyinstaller.org/) is the quickest way to
 get Ruby installed on Windows.
@@ -49,7 +49,18 @@ the available memory on the machine.
 
 ### Variables
 
-TODO: Add some content here.
+Ruby variables are created when a value is assigned to them. Once created, a
+variable can be assigned another object of a different type, since Ruby 
+variables don't have a fixed type.
+
+    x = 1                # x is a Fixnum object
+    x = x + 1.5          # x is now a Bignum
+    
+    x = "Matz"           # x is now a string
+    puts "Hello, #{x}!"  #=> "Hello, Matz!"
+
+You can also interpolate strings as shown in the above example. Anything inside
+`#{...}` gets evaluated and interpolated into the string.
 
 ### Conditions 
 
