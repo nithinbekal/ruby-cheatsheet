@@ -33,7 +33,7 @@ TODO: Add some content here.
 
 ### Objects and classes
 
-*Defining a class*:
+**Defining a class**:
 
     class Foo
       def initialize(name)
@@ -43,13 +43,13 @@ TODO: Add some content here.
 
 This creates a class called Foo. Classes are always named in CamelCase.
 
-*Constructor*: The constructor method for a class should be named `initialize`.
-It gets called whenever a new instance of the class is created.
+**Constructor**: The constructor method for a class should be named 
+`initialize`. It gets called whenever a new instance of the class is created.
 
-*Instance variable*: Variables that are prefixed with @ are instance variables.
-Here, @name is an instance variable of class Foo.
+**Instance variable**: Variables that are prefixed with @ are instance 
+variables. Here, @name is an instance variable of class Foo.
 
-*Creating objects*: Create an object `foo` which is an instance of class Foo 
+**Creating objects**: Create an object `foo` which is an instance of class Foo 
 and initialize it with the name "bar".
 
     foo = Foo.new("bar")
