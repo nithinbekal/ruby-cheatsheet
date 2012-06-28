@@ -17,7 +17,35 @@ get Ruby installed on Windows.
 
 ### Introduction
 
-TODO: Add some content here.
+The classic "hello world" program:
+
+    puts "Hello, world!"
+
+**Strings**
+
+Ruby strings belong to class String, and can be either single- or double-
+quoted.
+
+    'Hello, world!'        #=> "Hello, world!"
+    "Hello, world!".class  #=> String
+    "Hello".size           #=> 5
+
+**Numbers**
+
+Ruby numbers beong to class Fixnum. 
+
+    2 + 2           #=> 4
+    2.class         #=> Fixnum
+    
+    2 + 1.5         #=> 3.5
+    3.5.class       #=> Float
+
+Numbers larger than the integer size on the machine automatically get converted
+to Bignum object. So the size of numbers in Ruby is, in theory, only limited by
+the available memory on the machine.
+    
+    2**100          #=> 1267650600228229401496703205376 
+    (2**100).class  #=> Bignum
 
 ### Variables
 
